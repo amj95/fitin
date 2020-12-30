@@ -13,6 +13,7 @@
   },
   "hosting": {
     "public": "public",
+    "site": "fitinalimentos",
     "ignore": [
       "firebase.json",
       "**/.*",
