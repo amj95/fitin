@@ -268,7 +268,7 @@ input.empty, textarea.empty {
 		navbar shrinking
 -----------------------------------------------*/
 
-nav.navbar.shrink {
+/*nav.navbar.shrink {
 	max-height: 62px;
   	padding: 12px 0px;
   	transition: all 0.3s ease-in-out;
@@ -295,7 +295,7 @@ nav.shrink .navbar-toggle {
 
 .navbar-default.shrink .navbar-collapse {
     border-color: transparent;
-}
+}*/
 
 /*=================================================
 ||				5. Header
