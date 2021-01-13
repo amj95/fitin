@@ -255,7 +255,7 @@ input.empty, textarea.empty {
 }
 
 .navbar-brand {
-	margin-top: -100px;
+	margin-top: -110px;
   	width: 270px;
 }
 
@@ -385,11 +385,11 @@ nav.shrink .navbar-toggle {
 ==================================================*/
 .about-bg
 {
-	background: url('../images/About-C-bg.jpg');
+	background: url('../images/About-C-bg.jpeg');
 	background-repeat: no-repeat;
-	background-size: 85%;
+	background-size: 95%;
   	background-position-x: 15%;
-  	background-position-y: 80%;
+  	background-position-y: 65%;
 }
 #about 
 {
