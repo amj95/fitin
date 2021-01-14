@@ -416,7 +416,7 @@ nav.shrink .navbar-toggle {
 ==================================================*/
 .great-place-to-enjoy .section-bg
 {
-	background-image: url('../images/GPtE-bg.jpg');
+	background-image: url('../images/GPtE-bg.jpeg');
 }
 /*=================================================
 ||				9. Our Beer
@@ -429,7 +429,7 @@ nav.shrink .navbar-toggle {
 	background-repeat: no-repeat, no-repeat;
 	background-size: 300px,240px;*/
 
-    background: url("../images/beer-bg1.png"), url("../images/beer-bg2.png");
+    background: url("../images/bread-bg1.png"), url("../images/bread-bg2.png");
     background-repeat: no-repeat, no-repeat;
 	
     background-position: 51% 58%, 75% 58%;
