@@ -128,6 +128,19 @@ body
 	font-size: 60px;
 	color: #fff;
 }
+
+.subsection-title
+{
+	/*padding: 310px 0px;
+	margin: 0px 130px 0px 250px;*/
+	/*padding: 20%;*/
+	text-align: right;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 60px;
+	color: #fff;
+}
+
 .section-content-title
 {
 	font-family: 'Roboto';
@@ -428,7 +441,7 @@ nav.shrink .navbar-toggle {
 ==================================================*/
 .breakfast .section-bg
 {
-	background-image: url('../images/OBM-bg.jpg');
+	background-image: url('../images/OBM-bg.jpeg');
 }
 /*=================================================
 ||				11. Our Bread
